@@ -1,4 +1,4 @@
-# iso-country-flags
+# react-iso-country-flags
 
 A list of countries with flag images.
 
